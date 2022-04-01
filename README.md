@@ -19,7 +19,7 @@
   </div>
 
   <!-- Image -->
- <img align="right" src="https://user-images.githubusercontent.com/86573930/161335623-a0b432d1-2481-419a-b31e-782610aa51ab.png" width="240">
+ <img align="right" src="https://user-images.githubusercontent.com/86573930/161335623-a0b432d1-2481-419a-b31e-782610aa51ab.png" width="400">
 
 ####  👋🏻 Quem sou eu
 Meu nome é Lígia. Atualmente estou me graduando em Enegenharia mecânica e buscando aprender mais sobre a area tech <br>
