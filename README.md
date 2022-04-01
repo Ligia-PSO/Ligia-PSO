@@ -1,7 +1,7 @@
 
 
 <p align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23E4405F&size=28&center=true&vCenter=true&lines=Estudante+de+programação;Lígia-P.S.-Oliveira"(https://git.io/typing-svg)>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23E4405F&size=28&center=true&vCenter=true&lines=Estudante+de+programação;Lígia+P.S.+Oliveira"(https://git.io/typing-svg)>
 </p>
 
  <!-- contact icons -->
