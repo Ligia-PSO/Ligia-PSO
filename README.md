@@ -19,7 +19,7 @@
   </div>
 
   <!-- Image -->
- <img align="right" src="https://user-images.githubusercontent.com/86573930/161335623-a0b432d1-2481-419a-b31e-782610aa51ab.png" width="400">
+ <img align="right" src="https://user-images.githubusercontent.com/86573930/161335623-a0b432d1-2481-419a-b31e-782610aa51ab.png" width="300">
 
 ####  👋🏻 Quem sou eu
 Meu nome é Lígia. Atualmente estou me graduando em Enegenharia mecânica e buscando aprender mais sobre a area tech <br>
@@ -30,7 +30,7 @@ Meu nome é Lígia. Atualmente estou me graduando em Enegenharia mecânica e bus
 <!-- Streak stats -->
 <div>
 <p align="left"> 
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Ligia-PSO&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&stroke=%23E4405F&fire=20CFDDF9&sideNums=20CFDD&sideLabels=20CFDD&currStreakLabel=20CFDD&ring=%23E4405F&dates=%23E4405F"(https://git.io/streak-stats)>
+ <!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ligia-PSO&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&stroke=%23E4405F&fire=20CFDDF9&sideNums=20CFDD&sideLabels=20CFDD&currStreakLabel=20CFDD&ring=%23E4405F&dates=%23E4405F"(https://git.io/streak-stats)> -->
 
 
 
